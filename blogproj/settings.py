@@ -135,4 +135,4 @@ STATICFILES_DIRS = [
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'index'
-AUHT_USER_MODEL = 'users.User'
+AUTH_USER_MODEL = 'users.User'
